@@ -7,7 +7,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "yolov9py"
-version = "1.0.0"
+version = "1.1.0"
 description = "YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information."
 readme = { file = "yolov9/README.md" , content-type = "text/markdown" }
 
